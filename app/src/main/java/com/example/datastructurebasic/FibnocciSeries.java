@@ -18,7 +18,7 @@ import java.util.Scanner;
  * 8
  * 13
  * 21
- * 34 
+ * 34
  */
 public class FibnocciSeries {
     public static void main(String args[]) {
