@@ -33,9 +33,7 @@ public class ConcateTwoArray {
 
     public static void concatWithoutFunction(int[] a ,int[] b, int alen, int blen,int[] result){
        int pos = 0;
-
-       //result[pos] = element;
-        //            pos++;
+       
        for(int element:a){
            result[pos] = element;
            pos++;
