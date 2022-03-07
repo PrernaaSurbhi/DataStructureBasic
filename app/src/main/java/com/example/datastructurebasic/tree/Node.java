@@ -1,4 +1,4 @@
-package com.example.datastructurebasic.graph;
+package com.example.datastructurebasic.tree;
 
 /**
  * Created by PrernaSurbhi on 06/03/22.

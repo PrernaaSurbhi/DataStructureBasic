@@ -1,9 +1,13 @@
-package com.example.datastructurebasic.graph;
+package com.example.datastructurebasic.tree;
 
 import java.util.Arrays;
 
 /**
  * Created by PrernaSurbhi on 07/03/22.
+ * program to print BalancedBinarySearchTree
+ *
+ * output
+ * 8 10 12 15 16 20 25
  */
 public class BalancedBinarySearchTree {
     public static void main(String[] args){
